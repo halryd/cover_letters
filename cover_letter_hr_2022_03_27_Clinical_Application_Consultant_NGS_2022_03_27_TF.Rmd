@@ -1,0 +1,43 @@
+---
+title: "Cover letter for Thermo Fisher as Senior Clinical application consultant NGS"
+author: "Halfdan Rydbeck"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+::: from
+Halfdan Rydbeck  
+Lenas väg 1  
+43994 Onsala  
+Sverige  
+Email: hrydbeck@gmail.com  
+:::
+
+Hiring Manager  
+Thermo Fisher
+
+::: date
+`r Sys.Date()` 
+:::
+
+**Driven and communicative researcher in applied bioinformatics with extensive experience in omics analysis (applying for: Senior Clinical application consultant NGS)**
+
+<!-- *Reference number: C60075* -->
+
+Dear Hiring Manager,
+
+My name is Halfdan Rydbeck and I am applying for the position as Senior Clinical Application Consultant NGS at Thermo Fisher. I would be thrilled to join a global company whose provision of products has been so central to the development of research and business connected to life science and recently have been so important in the global effort to mitigate the effects of Corona. 
+
+I believe that methods that I have come to master and knowledge that I have attained when working within a DNA sequencing core facility have prepared me to interact with and serve customers of Thermo Fishers NGS systems. In addition I believe that my experience from the same position in connecting the skills of inhouse staff with wetlab and programming expertise to find the best solution for users of the facility will be a great asset in this position. My experience in working with other brands of NGS systems will make it easier for me to master those of Thermo Fisher. Finally my success in teaching scientist in programming and tutoring PhD students tells me that my personal characteristics and pedagogical skills will build relations with Thermo Fisher's customers. In my latest job I mainly worked together with doctors in projects of clinical character. I have lived and worked in Norway for 10 years and speak and write the language well.
+
+Regarding my personal characteristics I am quite persistent, I have great foresight and am careful. I have a great attention to detail, and I have a talent for discovering things that others may not see. As an employee, what I can contribute is caution, diligence and understanding and endurance.
+
+I hope to get a chance to introduce myself personally and look forward to hearing from you.
+
+Sincerely,
+
+Halfdan Rydbeck
